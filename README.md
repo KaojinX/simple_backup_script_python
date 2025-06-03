@@ -44,4 +44,5 @@ This Python script automatically creates ZIP backups of files from a selected fo
    - `fileTo` → destination folder for ZIPs
 2. Install required modules:
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
