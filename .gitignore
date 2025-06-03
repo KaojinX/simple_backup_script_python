@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Logi, backupy, pliki tymczasowe
+*.zip
+*.log
+*.tmp
+*.txt
+
+# Środowisko wirtualne (jeśli dodasz)
+venv/
+.env
+
+# Pliki edytorów i systemów operacyjnych
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
